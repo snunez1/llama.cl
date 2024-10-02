@@ -355,6 +355,8 @@ If your candidate PRs have elements of these it doesn't mean they won't get merg
 - C++
   - [llama2.cpp](https://github.com/leloykun/llama2.cpp) by @[leloykun](https://github.com/leloykun): a C++ port of this project
   - [llama2.cpp](https://github.com/coldlarry/llama2.cpp) by @[coldlarry](https://github.com/coldlarry): a C++ port of this project
+- Common Lisp
+  - [llama.cl](https://github.com/snunez1/llama.cl) by @[snunez1](https://github.com/snunez1): a port in idiomatic Common Lisp
 - JavaScript
   - [llama2.js](https://github.com/epicure/llama2.js) by @[epicure](https://github.com/epicure): a JavaScript port of this project
   - [llamajs](https://github.com/agershun/llamajs) by @[agershun](https://github.com/agershun): a JavaScript port of this project
